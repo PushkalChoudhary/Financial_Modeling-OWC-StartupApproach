@@ -1,0 +1,3 @@
+This project provides an approach to startup financial modeling using OWC (Oral Wellness Corporation) as an example.  
+The Excel file contains revenue workings with scenarios and sensitivity analysis.  
+This is not a full financial model — the objective is to show how revenue modeling can be approached, which can later be extended to costs, debt, equity, and valuation.
